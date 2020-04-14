@@ -1,5 +1,5 @@
 # COVID19_SEIR
-SEIR model (epidemiology model) for MacOS, 64bit kernel, Python 3 (3.7.6). Calculation starts from the initial state where there is an infected person in the population, and everyone else is susceptible. </br>
+SEIR model (epidemiology model) for MacOS, 64bit kernel, Python 3.7 (implemented with 3.7.6). Calculation starts from the initial state where there is an infected person in the population, and everyone else is susceptible. </br>
 If you have different types of computer or are curious about codes and models, </br>
 - GUI_SEIR_corona.py: python code with the model and GUI
 - SEIR_covid19.ipynb: Jupyter notebook with the codes of SEIR model. This can run interactively on binder https://mybinder.org/
