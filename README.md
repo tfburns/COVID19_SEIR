@@ -17,6 +17,6 @@ If you have different types of computer or are curious about codes and models, <
 Download GUI_SEIR_corona and open it with command line application such as terminal. You may need to change the access permission to executable manually (chmod 700 GUI_SEIR_corona). Mac computer's Security & Privacy settion may also need to be changed to allow download/open files from unidentified developers.
 
 ### The original model description
-Dr. Jun Ohashi (University of Tokyo) describes the model here:
+Dr. Jun Ohashi (University of Tokyo) describes the model here (in Japanese):
 http://www.bs.s.u-tokyo.ac.jp/content/files/SEIR%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8BCOVID-19%E6%B5%81%E8%A1%8C%E4%BA%88%E6%B8%AC%20200331ver3.1.pdf </br>
-COVID19.pdf describes the same model (in English, with my words).
+COVID19.pdf describes the same model (in English).
